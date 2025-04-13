@@ -8,4 +8,4 @@
 
 ## 🛠️ Languages and Tools
 
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,php,laravel,c#,dotnet,wordpress,figma&theme=light&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,php,laravel,cs,dotnet,wordpress,figma&theme=light&perline=6)](https://skillicons.dev)
