@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ELIS - ATMOSFERA**
 
-- 🌱 I’m currently learning **C#/.NET**
+- 🌱 I’m currently learning and working with **C#/.NET/Maui**, 
 
 - 📫 How to reach me **brigbernardes@gmail.com**
 
